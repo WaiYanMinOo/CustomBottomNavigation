@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomBottomNavigation</string>
+
+    <string name="home_text">Home</string>
+    <string name="pizza_text">Pizza</string>
+    <string name="gallery_text">Gallery</string>
+    <string name="camera_text">Camera</string>
+    <string name="transport_text">Transport</string>
+</resources>

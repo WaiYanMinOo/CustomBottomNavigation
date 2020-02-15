@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home_menu_icon_design"
+        android:title="@string/home_text"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/nav_pizza"
+        android:icon="@drawable/pizza_menu_icon_design"
+        android:title="@string/pizza_text"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/nav_gallery"
+        android:icon="@drawable/gallery_menu_icon_design"
+        android:title="@string/gallery_text"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/nav_camera"
+        android:icon="@drawable/camera_menu_icon_design"
+        android:title="@string/camera_text"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/nav_transport"
+        android:icon="@drawable/transport_menu_icon_design"
+        android:title="@string/transport_text"
+        app:showAsAction="ifRoom"/>
+</menu>
